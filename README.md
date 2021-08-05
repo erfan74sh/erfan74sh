@@ -1,5 +1,12 @@
-### Hi there 👋
+## Hi I'm Erfan 
 
+#### A frontend developer
+<hr>
+
+- 🔭 I’m currently working on HTML, CSS, javascript
+- 🌱 I’m currently learning React.js
+- 👯 I’m looking to collaborate on frontend web development
+- 🤔 I’m looking for help with 
 <!--
 **erfan74sh/erfan74sh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
