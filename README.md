@@ -1,11 +1,13 @@
-## Hi I'm Erfan 
-
-#### A frontend developer
+<h1 align="center">Hi, I'm Erfan</h1>
+<h3 align="center">A developer based in Isfahan|Iran</h3>
 <hr>
+<br>
 
-- 🔭 I’m currently working on HTML, CSS, javascript
-- 🌱 I’m currently learning React.js
-- 👯 I’m looking to collaborate on frontend web development
+- I'm  working with HTML, CSS, and Javascript and also currently learning React.
+- I'd like to collaborate on frontend web development
+
+<br>
+
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2C394B)
@@ -20,12 +22,11 @@
 
 ## &#x1f4c8; GitHub Stats
 
-
 <a href="https://github.com/erfan74sh">
-  <img align="left" height="130" src="https://github-readme-stats.vercel.app/api?username=erfan74sh&hide=prs,issues&show_icons=true&theme=dark" />
+  <img align="center" height="140" src="https://github-readme-stats.vercel.app/api?username=erfan74sh&hide=prs,issues&show_icons=true&theme=dark" />
 </a>
 <a href="">
-   <img align="center" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erfan74sh&layout=compact&theme=dark" />
+   <img align="center" height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erfan74sh&layout=compact&theme=dark" />
    </a>
 
 ## :link: Get in touch
