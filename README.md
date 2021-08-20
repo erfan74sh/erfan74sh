@@ -20,11 +20,12 @@
 
 ## &#x1f4c8; GitHub Stats
 
+
 <a href="https://github.com/erfan74sh">
-  <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=erfan74sh&hide=prs,issues&show_icons=true&theme=dark" />
+  <img align="left" height="130" src="https://github-readme-stats.vercel.app/api?username=erfan74sh&hide=prs,issues&show_icons=true&theme=dark" />
 </a>
 <a href="">
-   <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erfan74sh&layout=compact&theme=dark" />
+   <img align="center" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erfan74sh&layout=compact&theme=dark" />
    </a>
 
 ## :link: Get in touch
